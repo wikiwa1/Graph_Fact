@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Graph Factorization
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Julio
+    family-names: Cáceres
+    email: julio.e.caceres.gonzales@vanderbilt.edu
+    affiliation: Vanderbilt University
+    orcid: 'https://orcid.org/0000-0001-5693-1187'
+repository-code: 'https://github.com/wikiwa1/Graph_Fact'
+abstract: >-
+  This work contains a set of tools required to "factorize"
+  a bipartite graph as the concatenation of two bipartite
+  graphs. It produces all possible combinations and computes
+  the index of the associated subfactor.
